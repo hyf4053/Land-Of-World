@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Land Of World", "Land Of World.csproj", "{EAD6293F-0C4D-C222-A9FC-39D56BB75175}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Land Of World.Editor", "Land Of World.Editor.csproj", "{72A90007-563C-DC6F-3150-9BB25BB14CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD6293F-0C4D-C222-A9FC-39D56BB75175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD6293F-0C4D-C222-A9FC-39D56BB75175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD6293F-0C4D-C222-A9FC-39D56BB75175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD6293F-0C4D-C222-A9FC-39D56BB75175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72A90007-563C-DC6F-3150-9BB25BB14CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A90007-563C-DC6F-3150-9BB25BB14CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A90007-563C-DC6F-3150-9BB25BB14CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A90007-563C-DC6F-3150-9BB25BB14CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
